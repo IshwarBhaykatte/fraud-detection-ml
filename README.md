@@ -27,9 +27,21 @@ Therefore, recall and ROC-AUC are prioritized over accuracy.
 - Time-based features
 
 ## Model Evaluation
-![ROC Curve](images/roc_curve.png)
-![Confusion Matrix](images/confusion_matrix.png)
-![Feature Importance](images/feature_importance.png)
+
+### ROC Curve
+![ROC Curve](./images/roc_curve.png)
+<img width="1920" height="1080" alt="ROC-curve" src="https://github.com/user-attachments/assets/65579e39-7301-48bd-aac1-014bcb486abd" />
+
+### Confusion Matrix
+![Confusion Matrix](./images/confusion_matrix.png)
+<img width="1920" height="1080" alt="Confusion Matrix)" src="https://github.com/user-attachments/assets/843a01e6-69e2-4dd2-932c-961bcdfc53f8" />
+
+
+### Feature Importance
+![Feature Importance](./images/feature_importance.png)
+<img width="1920" height="1080" alt="Feature Importance Plot (XGBoost)" src="https://github.com/user-attachments/assets/d3576455-9e4d-4a3e-a547-41cf9b1eafb0" />
+
+
 
 ## Tools & Technologies
 - Python
